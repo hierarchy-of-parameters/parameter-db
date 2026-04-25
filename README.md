@@ -4,8 +4,12 @@ Database of **graph parameters and relations** including references to relevant 
 
 ## License
 
-This project is dedicated to the public domain under [CC0 1.0 Universal](LICENSE).
-While not required, we appreciate a citation.
+This project is dedicated to the public domain under [CC0 1.0 Universal](LICENSE), free for anyone to use for any purpose.
+Further contributions to this database will be included under the same license.
+
+Using this work does not create any obligations for you.
+When used in software projects, let us know so that we can link to it.
+When used in papers, we appreciate a citation.
 
 ```bibtex
 @misc{hopsdata,
